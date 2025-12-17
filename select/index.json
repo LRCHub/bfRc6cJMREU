@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Never Let This Go",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-17T16:17:31.679610Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Never Let This Go",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/01_Never_Let_This_Go_Paramore.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Never Let This Go",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/02_Never_Let_This_Go_Paramore.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Never Let This Go",
+      "artist": "Tom Frane",
+      "has_synced": true,
+      "path": "select/03_Never_Let_This_Go_Tom_Frane.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "06. Never Let This Go",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/04_06._Never_Let_This_Go_Paramore.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Never Let This Go",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/05_Never_Let_This_Go_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Never Let This Go",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/06_Never_Let_This_Go_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Never Let This Go",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/07_Never_Let_This_Go_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Never Let This Go",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/08_Never_Let_This_Go_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Never Let This Go",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/09_Never_Let_This_Go_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Never Let This Go (Sped Up)",
+      "artist": "Tom Frane",
+      "has_synced": false,
+      "path": "select/10_Never_Let_This_Go_(Sped_Up)_Tom_Frane.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Never Let This Go",
+      "artist": "Tom Frane",
+      "has_synced": false,
+      "path": "select/11_Never_Let_This_Go_Tom_Frane.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Never Let This Go",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Never_Let_This_Go_ONE_OK_ROCK.txt"
+    }
+  ]
+}
